@@ -1,1 +1,4 @@
 nltk
+scikit-learn
+keras
+tensorflow
